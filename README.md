@@ -7,7 +7,7 @@ Inspired by [bitcoinjs](https://github.com/bitcoinjs/bip32)
 ## Example
 ```dart
 
-import 'package:bip32/bip32.dart' as bip32;
+import 'package:dart_bip32/dart_bip32.dart' as bip32;
 import 'package:hex/hex.dart';
 
 main() {
