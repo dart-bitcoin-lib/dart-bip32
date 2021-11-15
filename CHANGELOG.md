@@ -37,3 +37,6 @@
 
 ## 2.0.0
 - Add null-safety
+
+## 2.0.1
+- update dart_bs58check package
