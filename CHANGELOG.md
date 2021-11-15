@@ -40,3 +40,6 @@
 
 ## 2.0.1
 - update dart_bs58check package
+
+## 2.0.2
+- update dart_wif package
