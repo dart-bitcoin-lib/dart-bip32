@@ -1,7 +1,7 @@
 import 'dart:convert';
 import 'dart:typed_data';
 
-import 'package:dart_bs58check/dart_bs58check.dart' as bs58check;
+import 'package:dart_bs58check/dart_bs58check.dart';
 import 'package:dart_wif/dart_wif.dart';
 
 import 'utils/crypto.dart';
