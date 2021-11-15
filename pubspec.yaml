@@ -12,7 +12,7 @@ dependencies:
   pointycastle: ^3.0.1
   hex: ^0.2.0
   dart_bs58check: ^2.0.0
-  dart_wif: ^2.0.0
+  dart_wif: ^2.1.0
 
 dev_dependencies:
   lints: ^1.0.0
