@@ -1,6 +1,6 @@
 name: dart_bip32
 description: A BIP32 (https://github.com/bitcoin/bips/blob/master/bip-0032.mediawiki) compatible library for Flutter writing by Dart.
-version: 2.0.3
+version: 2.0.4
 homepage: https://github.com/dart-bitcoin-lib/dart-bip32
 repository: https://github.com/dart-bitcoin-lib/dart-bip32
 issue_tracker: https://github.com/dart-bitcoin-lib/dart-bip32/issues

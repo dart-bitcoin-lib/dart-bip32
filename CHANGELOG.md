@@ -46,3 +46,6 @@
 
 ## 2.0.3
 - update example file name
+
+## 2.0.4
+- update dart_bs58check package version
