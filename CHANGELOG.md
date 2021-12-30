@@ -49,3 +49,6 @@
 
 ## 2.0.4
 - update dart_bs58check package version
+- 
+## 2.0.5
+- export utils
